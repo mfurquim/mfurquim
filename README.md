@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mateus Furquim</h1>
 <h3 align="center">A Machine Learning Engineer and Linux Enthusiast from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mfurquim&label=Profile%20views&color=0e75b6&style=flat" alt="mfurquim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfurquim" alt="mfurquim" /></a> </p>
+<a href="https://app.daily.dev/mfurquimdev"><img src="https://api.daily.dev/devcards/0b4f49c6c0144f1bb9c02a36183589bd.png?r=97c" width="400" alt="Mateus Furquim's Dev Card"/></a>
 
 <p align="left"> <a href="https://twitter.com/mfurquimdev" target="blank"><img src="https://img.shields.io/twitter/follow/mfurquimdev?logo=twitter&style=for-the-badge" alt="mfurquimdev" /></a> </p>
 
