@@ -1,10 +1,25 @@
-<h1 align="center">Hi 👋, I'm Mateus Furquim</h1>
-<h3 align="center">A Machine Learning Engineer and Linux Enthusiast from Brazil</h3>
 
+<div align="left">
+  
+  <a href="https://app.daily.dev/mfurquimdev" target="_blank">
+    <img
+      src="https://github.com/mfurquim/mfurquim/blob/master/devcard.svg"
+      width="256"
+      align="right"
+      alt="Mateus Furquim's Dev Card"
+    />
+  </a>
 
-<a href="https://app.daily.dev/mfurquimdev"><img src="https://api.daily.dev/devcards/0b4f49c6c0144f1bb9c02a36183589bd.png?r=97c" width="400" alt="Mateus Furquim's Dev Card"/></a>
+</div>
+  <h1>Hi 👋, I'm Mateus Furquim</h1>
+  <h3>A Machine Learning Engineer and Linux Enthusiast from Brazil</h3>
 
-<p align="left"> <a href="https://twitter.com/mfurquimdev" target="blank"><img src="https://img.shields.io/twitter/follow/mfurquimdev?logo=twitter&style=for-the-badge" alt="mfurquimdev" /></a> </p>
+  <a href="https://twitter.com/mfurquimdev" target="blank">
+    <img 
+      src="https://img.shields.io/twitter/follow/mfurquimdev?logo=twitter&style=for-the-badge"
+      alt="mfurquimdev"
+     />
+  </a>
 
 - 🔭 I’m currently working at [DevGrid](https://devgrid.co.uk/)
 
@@ -13,6 +28,10 @@
 - 💬 Ask me about **Software Engineering and Linux**
 
 - 📫 How to reach me **mateus@mfurquim.dev**
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -171,9 +190,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/mfurquimdev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi5.png?v=3" height="50" width="210" alt="mfurquimdev" /></a></p><br><br>
-
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfurquim&show_icons=true&locale=en&layout=compact" alt="mfurquim" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mfurquim&show_icons=true&locale=en" alt="mfurquim" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mfurquim&" alt="mfurquim" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mfurquim&" alt="mfurquim" /></p> -->
