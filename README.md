@@ -30,14 +30,9 @@
 </p>
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=eceff4)](https://www.hackerrank.com/mfurquim)
-[![Telegram mfurquimdev](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=flat-square&logoColor=eceff4)](https://t.me/mfurquimdev)
 [![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=eceff4)](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=eceff4)
 [![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=eceff4)](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=eceff4)
 [![](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=eceff4)](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=eceff4)
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 [![](https://img.shields.io/badge/Brave-FF1B2D?style=flat-square&logo=Brave&logoColor=eceff4)](https://img.shields.io/badge/Brave-FF1B2D?style=flat-square&logo=Brave&logoColor=eceff4)
 [![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=eceff4)](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=eceff4)
 [![](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=eceff4)](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=eceff4)
@@ -45,40 +40,26 @@
 [![](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=eceff4)](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=eceff4)
 [![](https://img.shields.io/badge/Codecademy-FFF0E5?style=flat-square&logo=codecademy&logoColor=303347)](https://img.shields.io/badge/Codecademy-FFF0E5?style=flat-square&logo=codecademy&logoColor=303347)
 [![](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=eceff4)](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=eceff4)
-<div>
-<div align='left'>
 [![](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=eceff4)](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=eceff4)
 [![](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=eceff4)](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=eceff4)
 [![](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=eceff4)](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=eceff4)
 [![](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=eceff4)](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=eceff4)
 [![](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=eceff4)](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=eceff4)
 [![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=eceff4)](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=eceff4)
-
-</div>
-<div align='center'>
-[![](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=eceff4)](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=eceff4)
 [![](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=eceff4)](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=eceff4)
 [![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=eceff4)](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=eceff4)
 [![](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=eceff4)](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=eceff4)
 [![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=eceff4)](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=eceff4)
 [![](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=eceff4)](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=eceff4)
-
-</div>
-<div align='right'>
 [![](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=eceff4)](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=eceff4)
 [![](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=InfluxDB&logoColor=eceff4)](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=InfluxDB&logoColor=eceff4)
 [![](https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=Inkscape&logoColor=eceff4)](https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=Inkscape&logoColor=eceff4)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=eceff4)](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=eceff4)
 [![](https://img.shields.io/badge/Itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=eceff4)](https://img.shields.io/badge/Itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=eceff4)
 [![](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=eceff4)](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=eceff4)
-
-</div>
-</div>
-
 [![](https://img.shields.io/badge/Khan%20Academy-14BF96?style=flat-square&logo=Khan%20Academy&logoColor=eceff4)](https://img.shields.io/badge/Khan%20Academy-14BF96?style=flat-square&logo=Khan%20Academy&logoColor=eceff4)
 [![](https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=eceff4)](https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=eceff4)
 [![](https://img.shields.io/badge/Liberapay-F6C915?style=flat-square&logo=liberapay&logoColor=black)](https://img.shields.io/badge/Liberapay-F6C915?style=flat-square&logo=liberapay&logoColor=black)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=eceff4)](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=eceff4)
 [![](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=eceff4)](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=eceff4)
 [![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=eceff4)](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=eceff4)
 [![](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=eceff4)](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=eceff4)
@@ -99,7 +80,6 @@
 [![](https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=eceff4)](https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=eceff4)
 [![](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=eceff4)](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=eceff4)
 [![](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=eceff4)](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=eceff4)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=eceff4)](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=eceff4)
 [![](https://img.shields.io/badge/Udacity-grey?style=flat-square&logo=udacity&logoColor=#5FCFEE)](https://img.shields.io/badge/Udacity-grey?style=flat-square&logo=udacity&logoColor=#5FCFEE)
 [![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=eceff4)](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=eceff4)
 [![](https://img.shields.io/badge/alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=eceff4)](https://img.shields.io/badge/alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=eceff4)
@@ -121,12 +101,14 @@
 [![MFurquim StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/3832827)](https://stackoverflow.com/users/3832827/mfurquim)
 
 
-<a href="https://twitter.com/mfurquimdev" target="blank">
-    <img
-      src="https://img.shields.io/twitter/follow/mfurquimdev?logo=twitter&style=flat-square"
-      alt="mfurquimdev"
-     />
-  </a>
+<h3>Where to find me</h3>
+
+[![Telegram mfurquimdev](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=eceff4)](https://t.me/mfurquimdev)
+[![Twitter mfurquimdev](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=eceff4)](https://twitter.com/mfurquimdev)
+[![Github mfurquim](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=eceff4)](https://github.com/mfurquim)
+[![LinkedIn mfurquim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=eceff4)](https://www.linkedin.com/in/mmfurquim/)
+
+
 
 - 🔭 I’m currently working at [DevGrid](https://devgrid.co.uk/)
 
