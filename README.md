@@ -102,10 +102,10 @@
 
 <h3>Where to find me</h3>
 
-[![Telegram mfurquimdev](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=eceff4)](https://t.me/mfurquimdev)
-[![Twitter mfurquimdev](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=eceff4)](https://twitter.com/mfurquimdev)
-[![Github mfurquim](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=eceff4)](https://github.com/mfurquim)
-[![LinkedIn mfurquim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=eceff4)](https://www.linkedin.com/in/mmfurquim/)
+[![Github mfurquim](https://img.shields.io/badge/-@mfurquim-100000?style=for-the-badge&logo=github&logoColor=eceff4)](https://github.com/mfurquim)
+[![Twitter mfurquimdev](https://img.shields.io/badge/-@mfurquimdev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=eceff4&link=https://twitter.com/mfurquimdev)](https://twitter.com/mfurquimdev)
+[![LinkedIn mfurquim](https://img.shields.io/badge/-in/mmfurquim-0077B5?style=for-the-badge&logo=linkedin&logoColor=eceff4)](https://www.linkedin.com/in/mmfurquim/)
+<!-- [![Telegram mfurquimdev](https://img.shields.io/badge/-t.me/mfurquimdev-2CA5E0?logo=telegram&style=for-the-badge&logoColor=eceff4)](https://t.me/mfurquimdev) -->
 
 
 
