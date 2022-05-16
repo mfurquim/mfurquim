@@ -14,12 +14,16 @@
   <h1>Hi 👋, I'm Mateus Furquim</h1>
   <h3>A Machine Learning Engineer and Linux Enthusiast from Brazil</h3>
 
+<div align='center'>
 
-  [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=eceff4&style=flat-square)](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=eceff4&style=flat-square)
-
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=eceff4&style=flat-square)](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=eceff4&style=flat-square)
 [![mateus@mfurquim.dev](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=eceff4)](mailto:mateus@mfurquim.dev)
-
 [![mfurquimdev](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=flat-square&logoColor=eceff4)](https://t.me/mfurquimdev)
+
+</div>
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mfurquim&theme=nord_dark)
+
+
 
 
 https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
