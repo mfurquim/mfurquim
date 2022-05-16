@@ -24,43 +24,69 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=archlinux&logoColor=ECEFF4&label=CREATED%20BY&labelColor=4C566A&message=mfurquimdev&color=2E3440&link=http://mfurquim.dev&link=https://mfurquim.github.io/">
 </a>
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-<!-- # Languages -->
-<!-- c -->
-<!-- cplusplus -->
-<!-- go -->
-<!-- haskell -->
-<!-- lua -->
-<!-- python -->
-<!-- r -->
+<div alight=left>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py,redis,cassandra,go,prometheus,grafana,docker,js,html,css,py,redis,cassandra,pytorch,aws,vim,bash,git,linux,latex,md,regex&perline=1" align="right"/>
+  </a>
+</div>
 
-<!-- # Infra -->
-<!-- ansible -->
-<!-- docker -->
-<!-- grafana -->
-<!-- jenkins -->
-<!-- kubernetes -->
-<!-- prometheus -->
-<!-- rabbitmq -->
-<!-- vagrant -->
+<!-- <div alight=left> -->
+<!--   <a href="https://skillicons.dev" target="_blank"> -->
+<!--     <img src="https://skillicons.dev/icons?i=py,redis,cassandra" align="right"/> -->
+<!--   </a> -->
+<!-- </div> -->
 
-<!-- pihole -->
-<!-- amazonaws -->
-<!-- heroku -->
-<!-- digitalocean -->
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, -->
+<!-- sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -->
 
-<!-- # DB -->
-<!-- apachecassandra -->
-<!-- etcd -->
-<!-- influxdb -->
-<!-- mariadb -->
-<!-- mysql -->
-<!-- postgresql -->
-<!-- redis -->
-<!-- sqlite -->
+<!-- <div alight=left> -->
+<!--   <a href="https://skillicons.dev" target="_blank"> -->
+<!--     <img src="https://skillicons.dev/icons?i=go,prometheus,grafana,docker" align="right"/> -->
+<!--   </a> -->
+<!-- </div> -->
 
-<!-- # OS -->
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, -->
+<!-- sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -->
+
+<!-- <div alight=left> -->
+<!--   <a href="https://skillicons.dev" target="_blank"> -->
+<!--     <img src="https://skillicons.dev/icons?i=pytorch,aws" align="right"/> -->
+<!--   </a> -->
+<!-- </div> -->
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, -->
+<!-- sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -->
+
+
+<!-- <div alight=left> -->
+<!--   <a href="https://skillicons.dev" target="_blank"> -->
+<!--     <img src="https://skillicons.dev/icons?i=vim,bash,git,linux,latex,md,regex" align="right"/> -->
+<!--   </a> -->
+<!-- </div> -->
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, -->
+<!-- sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -->
+
+
+<!-- <div alight=left> -->
+<!--   <a href="https://skillicons.dev" target="_blank"> -->
+<!--     <img src="https://skillicons.dev/icons?i=js,html,css" align="right"/> -->
+<!--   </a> -->
+<!-- </div> -->
+
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, -->
+<!-- sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -->
+
+<!-- instagram -->
+<!-- linkedin -->
+<!-- telegram -->
+<!-- twitter -->
+
 <!-- archlinux -->
 <!-- alacritty -->
 <!-- brave -->
@@ -69,11 +95,89 @@
 <!-- linux -->
 <!-- markdown -->
 <!-- vim -->
-
 <!-- wakatime https://wakatime.com/@mfurquim -->
-
 <!-- wireshark -->
+
+<!-- arduino -->
+<!-- raspberrypi -->
+
+<!-- gnubash -->
+<!-- less -->
+<!-- curl -->
+<!-- cplusplus -->
 <!-- latex -->
+
+<!-- postgresql -->
+
+<!-- hubspot -->
+<!-- codepen -->
+<!-- css3 -->
+<!-- html5 -->
+
+<!-- fastapi -->
+<!-- flask -->
+<!-- insomnia -->
+<!-- postman -->
+
+<!-- go -->
+<!-- docker -->
+<!-- grafana -->
+<!-- prometheus -->
+<!-- kubernetes -->
+<!-- etcd -->
+
+<!-- rabbitmq -->
+<!-- python -->
+<!-- apachecassandra -->
+<!-- redis -->
+
+<!-- udacity -->
+
+<!-- amazonaws -->
+<!-- dvc -->
+<!-- jupyter -->
+<!-- kaggle -->
+<!-- numpy -->
+<!-- pandas -->
+<!-- pytorch -->
+<!-- scikitlearn -->
+
+
+<!-- codingame -->
+<!-- codewars -->
+<!-- exercism https://exercism.org/profiles/mfurquim -->
+<!-- hackerrank -->
+
+<!-- thingiverse -->
+<!-- aseprite -->
+<!-- gimp -->
+<!-- inkscape -->
+
+<!-- pix -->
+
+<!-- # Languages -->
+<!-- c -->
+<!-- haskell -->
+<!-- lua -->
+<!-- r -->
+
+<!-- # Infra -->
+<!-- ansible -->
+<!-- jenkins -->
+<!-- vagrant -->
+
+<!-- pihole -->
+<!-- heroku -->
+<!-- digitalocean -->
+
+<!-- # DB -->
+<!-- influxdb -->
+<!-- mariadb -->
+<!-- mysql -->
+<!-- sqlite -->
+
+<!-- # OS -->
+
 
 
 <!-- googlesheets -->
@@ -87,18 +191,8 @@
 <!-- jira -->
 
 <!-- # ML -->
-<!-- dvc -->
-<!-- jupyter -->
-<!-- kaggle -->
-<!-- numpy -->
-<!-- pandas -->
-<!-- pytorch -->
-<!-- scikitlearn -->
 
 <!-- # Utils -->
-<!-- gnubash -->
-<!-- less -->
-<!-- curl -->
 
 
 <!-- # Test -->
@@ -110,38 +204,23 @@
 <!-- apache -->
 <!-- nginx -->
 
-<!-- apachehadoop -->
 
 
 <!-- # HW -->
-<!-- arduino -->
-<!-- raspberrypi -->
 
 
 <!-- # Learning -->
 <!-- khanacademy -->
 <!-- pluralsight -->
 <!-- skillshare -->
-<!-- udacity -->
 
 <!-- # Challanges -->
 <!-- codeforces -->
-<!-- codingame -->
-<!-- codewars -->
-<!-- exercism https://exercism.org/profiles/mfurquim -->
-<!-- hackerrank -->
 <!-- leetcode https://leetcode.com/mfurquim/ -->
 
 <!-- # Backend -->
-<!-- fastapi -->
-<!-- flask -->
-<!-- insomnia -->
-<!-- postman -->
 
 <!-- # Frontend -->
-<!-- codepen -->
-<!-- css3 -->
-<!-- html5 -->
 
 
 <!-- # Mobile -->
@@ -149,11 +228,8 @@
 
 
 <!-- # Design -->
-<!-- aseprite -->
 <!-- blender -->
 <!-- canva -->
-<!-- gimp -->
-<!-- inkscape -->
 <!-- krita -->
 <!-- svg -->
 
@@ -165,23 +241,16 @@
 <!-- patreon -->
 <!-- paypal -->
 <!-- payoneer -->
-<!-- pix -->
 
 <!-- # Social Media -->
-<!-- instagram -->
-<!-- linkedin -->
-<!-- telegram -->
-<!-- twitter -->
 
 <!-- # Game dev -->
 <!-- itchdotio -->
 <!-- unity -->
 
 <!-- creativecommons -->
-<!-- thingiverse -->
 
 <!-- # CRM -->
-<!-- hubspot -->
 
 <!-- meetup https://www.meetup.com/members/127219162/ -->
 
@@ -191,11 +260,6 @@
 
 [![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mfurquim&theme=nord_dark)]()
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=eceff4)](https://www.hackerrank.com/mfurquim)
 [![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=eceff4)](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=eceff4)
