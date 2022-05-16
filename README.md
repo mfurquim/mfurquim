@@ -20,6 +20,11 @@
 
 [![MFurquim StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/3832827)](https://stackoverflow.com/users/3832827/mfurquim)
 
+<a href="https://github.com/mfurquim" alt="https://github.com/mfurquim">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logoColor=ECEFF4&label=CREATED%20BY&labelColor=4C566A&message=mfurquimdev&color=2E3440">
+</a>
+
+
 </div>
 
 [![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mfurquim&theme=nord_dark)]()
