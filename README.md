@@ -1,18 +1,16 @@
+<!-- <div align="left"> -->
+<!--   <a href="https://app.daily.dev/mfurquimdev" target="_blank"> -->
+<!--     <img -->
+<!--       src="https://github.com/mfurquim/mfurquim/blob/master/devcard.svg" -->
+<!--       width="256" -->
+<!--       align="right" -->
+<!--       alt="Mateus Furquim's Dev Card" -->
+<!--     /> -->
+<!--   </a> -->
+<!-- </div> -->
 
-<div align="left">
-
-  <a href="https://app.daily.dev/mfurquimdev" target="_blank">
-    <img
-      src="https://github.com/mfurquim/mfurquim/blob/master/devcard.svg"
-      width="256"
-      align="right"
-      alt="Mateus Furquim's Dev Card"
-    />
-  </a>
-</div>
-
-  <h1>Hi 👋, I'm Mateus Furquim</h1>
-  <h3>A Machine Learning Engineer and Linux Enthusiast from Brazil</h3>
+<h1>Hi 👋, I'm Mateus Furquim</h1>
+<h3>A Machine Learning Engineer and Linux Enthusiast from Brazil</h3>
 
 <div align='center'>
 
@@ -99,6 +97,7 @@
 [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=eceff4)](http://git-scm.com/)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![MFurquim StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/3832827)](https://stackoverflow.com/users/3832827/mfurquim)
+
 
 
 <h3>Where to find me</h3>
