@@ -25,6 +25,168 @@
 </a>
 
 
+
+<!-- # Languages -->
+<!-- c -->
+<!-- cplusplus -->
+<!-- go -->
+<!-- haskell -->
+<!-- lua -->
+<!-- python -->
+<!-- r -->
+
+<!-- # Infra -->
+<!-- ansible -->
+<!-- docker -->
+<!-- grafana -->
+<!-- jenkins -->
+<!-- kubernetes -->
+<!-- prometheus -->
+<!-- rabbitmq -->
+<!-- vagrant -->
+
+<!-- pihole -->
+<!-- amazonaws -->
+<!-- heroku -->
+<!-- digitalocean -->
+
+<!-- # DB -->
+<!-- apachecassandra -->
+<!-- etcd -->
+<!-- influxdb -->
+<!-- mariadb -->
+<!-- mysql -->
+<!-- postgresql -->
+<!-- redis -->
+<!-- sqlite -->
+
+<!-- # OS -->
+<!-- archlinux -->
+<!-- alacritty -->
+<!-- brave -->
+<!-- duckduckgo -->
+<!-- gnu -->
+<!-- linux -->
+<!-- markdown -->
+<!-- vim -->
+
+<!-- wakatime https://wakatime.com/@mfurquim -->
+
+<!-- wireshark -->
+<!-- latex -->
+
+
+<!-- googlesheets -->
+
+
+
+<!-- # Software development process -->
+<!-- git -->
+<!-- github -->
+<!-- gitlab -->
+<!-- jira -->
+
+<!-- # ML -->
+<!-- dvc -->
+<!-- jupyter -->
+<!-- kaggle -->
+<!-- numpy -->
+<!-- pandas -->
+<!-- pytorch -->
+<!-- scikitlearn -->
+
+<!-- # Utils -->
+<!-- gnubash -->
+<!-- less -->
+<!-- curl -->
+
+
+<!-- # Test -->
+<!-- cucumber -->
+<!-- selenium -->
+
+
+<!-- gunicorn -->
+<!-- apache -->
+<!-- nginx -->
+
+<!-- apachehadoop -->
+
+
+<!-- # HW -->
+<!-- arduino -->
+<!-- raspberrypi -->
+
+
+<!-- # Learning -->
+<!-- khanacademy -->
+<!-- pluralsight -->
+<!-- skillshare -->
+<!-- udacity -->
+
+<!-- # Challanges -->
+<!-- codeforces -->
+<!-- codingame -->
+<!-- codewars -->
+<!-- exercism https://exercism.org/profiles/mfurquim -->
+<!-- hackerrank -->
+<!-- leetcode https://leetcode.com/mfurquim/ -->
+
+<!-- # Backend -->
+<!-- fastapi -->
+<!-- flask -->
+<!-- insomnia -->
+<!-- postman -->
+
+<!-- # Frontend -->
+<!-- codepen -->
+<!-- css3 -->
+<!-- html5 -->
+
+
+<!-- # Mobile -->
+<!-- expo -->
+
+
+<!-- # Design -->
+<!-- aseprite -->
+<!-- blender -->
+<!-- canva -->
+<!-- gimp -->
+<!-- inkscape -->
+<!-- krita -->
+<!-- svg -->
+
+<!-- # Link -->
+<!-- biolink -->
+
+<!-- # Donation -->
+<!-- kofi -->
+<!-- patreon -->
+<!-- paypal -->
+<!-- payoneer -->
+<!-- pix -->
+
+<!-- # Social Media -->
+<!-- instagram -->
+<!-- linkedin -->
+<!-- telegram -->
+<!-- twitter -->
+
+<!-- # Game dev -->
+<!-- itchdotio -->
+<!-- unity -->
+
+<!-- creativecommons -->
+<!-- thingiverse -->
+
+<!-- # CRM -->
+<!-- hubspot -->
+
+<!-- meetup https://www.meetup.com/members/127219162/ -->
+
+<!-- slack -->
+
 </div>
 
 [![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mfurquim&theme=nord_dark)]()
