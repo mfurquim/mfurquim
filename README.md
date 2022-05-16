@@ -18,8 +18,11 @@
 [![email mateus at mfurquim dot dev](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=eceff4)](mailto:mateus@mfurquim.dev)
 [![Telegram mfurquimdev](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=flat-square&logoColor=eceff4)](https://t.me/mfurquimdev)
 
+[![MFurquim StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/3832827)](https://stackoverflow.com/users/3832827/mfurquim)
+
 </div>
-![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mfurquim&theme=nord_dark)
+
+[![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mfurquim&theme=nord_dark)]()
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -93,10 +96,9 @@
 
 
 
-[![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
-[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=eceff4)](http://git-scm.com/)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![MFurquim StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/3832827)](https://stackoverflow.com/users/3832827/mfurquim)
+<!-- [![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/) -->
+<!-- [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=eceff4)](http://git-scm.com/) -->
+<!-- [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) -->
 
 
 
