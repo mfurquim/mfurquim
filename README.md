@@ -11,6 +11,7 @@
 - 💬 Ask me about **Software Engineering and Linux**
 
 <h3>How to reach me</h3>
+
 [![Telegram mfurquimdev](https://img.shields.io/badge/-mfurquimdev-2CA5E0?logo=telegram&style=flat-square&logoColor=eceff4)](https://t.me/mfurquimdev) [![email mateus at mfurquim dot dev](https://img.shields.io/badge/-mateus@mfurquim.dev-D14836?style=flat-square&logo=gmail&logoColor=eceff4)](mailto:mateus@mfurquim.dev)
 
 
@@ -33,12 +34,7 @@
 <div align='center'>
 <h3>My current work stack</h3>
 
-[![Python 3](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=eceff4)](https://www.python.org/)
-[![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=eceff4)](https://docs.datastax.com/en/developer/python-driver/3.25/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=ECEFF4)](https://fastapi.tiangolo.com/)
-[![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=ECEFF4)](https://docs.celeryq.dev/en/stable/)
-[![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat-square&logo=rabbitmq&logoColor=eceff4)](https://www.rabbitmq.com/)
-[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=eceff4)](https://redis.io/)
+[![Python 3](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=eceff4)](https://www.python.org/)[![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=eceff4)](https://docs.datastax.com/en/developer/python-driver/3.25/)[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=ECEFF4)](https://fastapi.tiangolo.com/)[![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=ECEFF4)](https://docs.celeryq.dev/en/stable/)[![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat-square&logo=rabbitmq&logoColor=eceff4)](https://www.rabbitmq.com/)[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=eceff4)](https://redis.io/)
 
 </div>
 
