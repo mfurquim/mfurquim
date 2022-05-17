@@ -25,10 +25,9 @@
 <div align='center'>
 <h3>What I use to work</h3>
 
-
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=eceff4)](https://archlinux.org/)
-[![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=eceff4)](https://www.vim.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=eceff4)](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
+[![Arch Linux](https://img.shields.io/static/v1?style=for-the-badge&logo=archlinux&logoColor=ECEFF4&label=Arch&labelColor=1793D1&message=Linux&color=1CA2E6)](https://archlinux.org/)
+[![Vim](https://img.shields.io/static/v1?style=for-the-badge&logo=vim&logoColor=ECEFF4&label=Vim&labelColor=019733&message=editor&color=03AF3C)](https://www.vim.org/)
+[![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=git&logoColor=ECEFF4&label=Git&labelColor=F05032&message=Flow&color=F1654A)](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
 
 </div>
 
