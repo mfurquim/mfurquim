@@ -21,17 +21,18 @@
 <!--   </a> -->
 <!-- </div> -->
 
+
+<h3>What I use to work</h3>
 <div align='center'>
 
-<a href="https://archlinux.org/" alt="https://archlinux.org/">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=archlinux&logoColor=ECEFF4&label=Arch&labelColor=1793D1&message=Linux&color=1CA2E6">
-</a>
-<a href="https://www.vim.org/" alt="https://www.vim.org/">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=vim&logoColor=ECEFF4&label=Vim&labelColor=019733&message=editor&color=03AF3C">
-</a>
-<a href="https://datasift.github.io/gitflow/IntroducingGitFlow.html" alt="https://datasift.github.io/gitflow/IntroducingGitFlow.html">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=git&logoColor=ECEFF4&label=Git&labelColor=F05032&message=Flow&color=F1654A">
-</a>
+[![Arch Linux](https://img.shields.io/static/v1?style=for-the-badge&logo=archlinux&logoColor=ECEFF4&label=Arch&labelColor=1793D1&message=Linux&color=1CA2E6)](https://archlinux.org/)
+[![Vim](https://img.shields.io/static/v1?style=for-the-badge&logo=vim&logoColor=ECEFF4&label=Vim&labelColor=019733&message=editor&color=03AF3C)](https://www.vim.org/)
+[![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=git&logoColor=ECEFF4&label=Git&labelColor=F05032&message=Flow&color=F1654A)](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
+
+</div>
+
+<h3>My current work stack</h3>
+<div align='center'>
 
 [![Python 3](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=eceff4)](https://www.python.org/)
 [![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=eceff4)](https://docs.datastax.com/en/developer/python-driver/3.25/)
@@ -39,6 +40,8 @@
 [![Celery](https://img.shields.io/static/v1?style=flat-square&logo=celery&logoColor=ECEFF4&label=Celery&labelColor=37814A&message=Task%20Queue&color=3E9354)](https://docs.celeryq.dev/en/stable/)
 [![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat-square&logo=rabbitmq&logoColor=eceff4)](https://www.rabbitmq.com/)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=eceff4)](https://redis.io/)
+
+</div>
 
 <!-- [![Go Lang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=eceff4)](https://go.dev/) -->
 <!-- [![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=eceff4)](https://mywiki.wooledge.org/BashPitfalls) -->
@@ -57,7 +60,6 @@
 
 <!-- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=eceff4)](https://www.kaggle.com/mfurquim) -->
 
-</div>
 
 
 
