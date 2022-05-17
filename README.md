@@ -10,7 +10,8 @@
 
 - 💬 Ask me about **Software Engineering and Linux**
 
-- 📫 How to reach me[![Telegram mfurquimdev](https://img.shields.io/badge/-mfurquimdev-2CA5E0?logo=telegram&style=flat-square&logoColor=eceff4)](https://t.me/mfurquimdev)[![email mateus at mfurquim dot dev](https://img.shields.io/badge/-mateus@mfurquim.dev-D14836?style=flat-square&logo=gmail&logoColor=eceff4)](mailto:mateus@mfurquim.dev)
+<h3>How to reach me</h3>
+[![Telegram mfurquimdev](https://img.shields.io/badge/-mfurquimdev-2CA5E0?logo=telegram&style=flat-square&logoColor=eceff4)](https://t.me/mfurquimdev) [![email mateus at mfurquim dot dev](https://img.shields.io/badge/-mateus@mfurquim.dev-D14836?style=flat-square&logo=gmail&logoColor=eceff4)](mailto:mateus@mfurquim.dev)
 
 
 
