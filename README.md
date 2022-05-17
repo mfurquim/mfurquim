@@ -43,8 +43,6 @@
 
 </div>
 
-<!-- [![Celery](https://img.shields.io/static/v1?style=flat-square&logo=celery&logoColor=ECEFF4&label=Celery&labelColor=37814A&message=Task%20Queue&color=3E9354)](https://docs.celeryq.dev/en/stable/) -->
-<!-- https://img.shields.io/static/v1?style=flat-square&logo=celery&logoColor=ECEFF4&label=Celery&labelColor=&message=Task%20Queue&color=3E9354) -->
 
 <!-- [![Go Lang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=eceff4)](https://go.dev/) -->
 <!-- [![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=eceff4)](https://mywiki.wooledge.org/BashPitfalls) -->
@@ -63,7 +61,7 @@
 
 [![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=flat-square&logo=exercism&logoColor=white)](https://exercism.org/profiles/mfurquim)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=eceff4)](https://www.hackerrank.com/mfurquim)
-[![CodinGame](https://img.shields.io/static/v1?style=flat-square&logo=codingame&logoColor=ECEFF4&label=Codin&labelColor=F2BB13&message=Game&color=F2C12C)](https://www.codingame.com/profile/4881da4375838b65a4caeb94bd8e25b6568412)
+[![CodinGame](https://img.shields.io/badge/CodinGame-F2BB13?style=flat-square&logo=codingame&logoColor=ECEFF4)](https://www.codingame.com/profile/4881da4375838b65a4caeb94bd8e25b6568412)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=eceff4)](https://www.codewars.com/users/mfurquim)
 
 <!-- <h3>Learning platforms</h3> -->
