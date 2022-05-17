@@ -66,12 +66,12 @@
 [![CodinGame](https://img.shields.io/static/v1?style=flat-square&logo=codingame&logoColor=ECEFF4&label=Codin&labelColor=F2BB13&message=Game&color=F2C12C)](https://www.codingame.com/profile/4881da4375838b65a4caeb94bd8e25b6568412)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=eceff4)](https://www.codewars.com/users/mfurquim)
 
-<h3>Learning platforms</h3>
+<!-- <h3>Learning platforms</h3> -->
 
-[![Udacity](https://img.shields.io/badge/Udacity-grey?style=flat-square&logo=udacity&logoColor=#5FCFEE)](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
-[![Skillshare](https://img.shields.io/badge/skill%20share-002333?style=flat-square&logo=skillshare&logoColor=eceff4)](https://www.skillshare.com/user/mfurquim)
-[![Khan Academy](https://img.shields.io/badge/Khan%20Academy-14BF96?style=flat-square&logo=Khan%20Academy&logoColor=eceff4)](https://www.khanacademy.org/profile/mfurquim)
-[![Pluralsight](https://img.shields.io/badge/Pluralsight-F15B2A?style=flat-square&logo=Pluralsight&logoColor=eceff4)](https://app.pluralsight.com/profile/mateus-furquim)
+<!-- [![Udacity](https://img.shields.io/badge/Udacity-grey?style=flat-square&logo=udacity&logoColor=#5FCFEE)](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) -->
+<!-- [![Skillshare](https://img.shields.io/badge/skill%20share-002333?style=flat-square&logo=skillshare&logoColor=eceff4)](https://www.skillshare.com/user/mfurquim) -->
+<!-- [![Khan Academy](https://img.shields.io/badge/Khan%20Academy-14BF96?style=flat-square&logo=Khan%20Academy&logoColor=eceff4)](https://www.khanacademy.org/profile/mfurquim) -->
+<!-- [![Pluralsight](https://img.shields.io/badge/Pluralsight-F15B2A?style=flat-square&logo=Pluralsight&logoColor=eceff4)](https://app.pluralsight.com/profile/mateus-furquim) -->
 
 <h3>Connect with me:</h3>
 
