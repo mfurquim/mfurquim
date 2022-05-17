@@ -60,8 +60,8 @@
 
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=eceff4)](https://www.codewars.com/users/mfurquim)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=eceff4)](https://www.hackerrank.com/mfurquim)
-[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/mfurquim)
-[![CodinGame](https://img.shields.io/static/v1?style=for-the-badge&logo=codingame&logoColor=ECEFF4&label=Codin&labelColor=F2BB13&message=Game&color=F2C12C)](https://www.codingame.com/profile/4881da4375838b65a4caeb94bd8e25b6568412)
+[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=flat-square&logo=exercism&logoColor=white)](https://exercism.org/profiles/mfurquim)
+[![CodinGame](https://img.shields.io/static/v1?style=flat-square&logo=codingame&logoColor=ECEFF4&label=Codin&labelColor=F2BB13&message=Game&color=F2C12C)](https://www.codingame.com/profile/4881da4375838b65a4caeb94bd8e25b6568412)
 
 <h3>Learning platforms</h3>
 
