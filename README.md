@@ -49,7 +49,7 @@
 
 <h3>How to reach me</h3>
 
-[![Telegram mfurquimdev](https://img.shields.io/badge/-mfurquimdev-2CA5E0?logo=telegram&style=flat-square&logoColor=eceff4)](https://t.me/mfurquimdev) [![email mateus at mfurquim dot dev](https://img.shields.io/badge/-mateus@mfurquim.dev-D14836?style=flat-square&logo=gmail&logoColor=eceff4)](mailto:mateus@mfurquim.dev)
+[![Telegram mfurquimdev](https://img.shields.io/badge/-mfurquimdev-2CA5E0?logo=telegram&style=flat-square&logoColor=eceff4)](https://t.me/mfurquimdev)[![email mateus at mfurquim dot dev](https://img.shields.io/badge/-mateus@mfurquim.dev-D14836?style=flat-square&logo=gmail&logoColor=eceff4)](mailto:mateus@mfurquim.dev)
 
 
 <!-- <h3>Learning platforms</h3> -->
@@ -61,13 +61,11 @@
 
 <h3>Connect with me:</h3>
 
-[![Github mfurquim](https://img.shields.io/badge/mfurquim-181717?style=flat-square&logo=github&logoColor=eceff4)](https://github.com/mfurquim)
-[![LinkedIn mfurquim](https://img.shields.io/badge/-in/mmfurquim-0077B5?style=flat-square&logo=linkedin&logoColor=eceff4)](https://www.linkedin.com/in/mmfurquim/)
+[![Github mfurquim](https://img.shields.io/badge/mfurquim-181717?style=flat-square&logo=github&logoColor=eceff4)](https://github.com/mfurquim)[![LinkedIn mfurquim](https://img.shields.io/badge/-in/mmfurquim-0077B5?style=flat-square&logo=linkedin&logoColor=eceff4)](https://www.linkedin.com/in/mmfurquim/)
 
 <h3>Follow me on:</h3>
 
-[![Twitter @mfurquimdev](https://img.shields.io/badge/-@mfurquimdev-1DA1F2?style=flat-square&logo=twitter&logoColor=eceff4&link=https://twitter.com/mfurquimdev)](https://twitter.com/mfurquimdev)
-[![Instagram @mfurquimdev](https://img.shields.io/badge/-@mfurquimdev-E4405F?style=flat-square&logo=instagram&logoColor=eceff4)](https://www.instagram.com/mfurquimdev/)
+[![Twitter @mfurquimdev](https://img.shields.io/badge/-@mfurquimdev-1DA1F2?style=flat-square&logo=twitter&logoColor=eceff4&link=https://twitter.com/mfurquimdev)](https://twitter.com/mfurquimdev)[![Instagram @mfurquimdev](https://img.shields.io/badge/-@mfurquimdev-E4405F?style=flat-square&logo=instagram&logoColor=eceff4)](https://www.instagram.com/mfurquimdev/)
 
 <h3>Coding challanges</h3>
 
