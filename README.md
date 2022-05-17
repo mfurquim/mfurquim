@@ -464,7 +464,7 @@
 
 <div align="left">
   <a href="http://mfurquim.dev/" alt="http://mfurquim.dev/">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAAXNSR0IArs4c6QAAAC1QTFRFJCkzLjRATFZq2N7p7O/0j7y7iMDQgaHBXoGsv2Fq0Idw68uLo76MtI6tAAAAVAQFKwAAAA90Uk5TAP//////////////////5Y2epgAAAFZJREFUaIHtzTEOgDAQA8GI/P/P6UJjqFJgNFueTp4xJEmSHps7CATSgVy749MQCORzSOISfN9mCAKB9CLvtzSd/iAQSBuSgkAg/0fSNAQC6UUkSVJ9C3VLEM1cXV6hAAAAAElFTkSuQmCC&label=CREATED%20BY&labelColor=2E3440&message=mfurquimdev&color=4C566A&link=http://mfurquim.dev&link=https://mfurquim.github.io/" align="right" alt="mfurquimdev">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAAXNSR0IArs4c6QAAAC1QTFRFJCkzLjRATFZq2N7p7O/0j7y7iMDQgaHBXoGsv2Fq0Idw68uLo76MtI6tAAAAVAQFKwAAAA90Uk5TAP//////////////////5Y2epgAAACRJREFUCJljYEAFzAwMTFAayGJiYGIGsYA0UIQJIgdjwJSCAQAF0wAsVwmx+wAAAABJRU5ErkJggg==&label=CREATED%20BY&labelColor=2E3440&message=mfurquimdev&color=4C566A&link=http://mfurquim.dev&link=https://mfurquim.github.io/" align="right" alt="mfurquimdev">
   </a>
   <a href="https://www.bcb.gov.br/estabilidadefinanceira/pix" alt="pix 61981892456">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=pix&logoColor=ECEFF4&label=PIX&labelColor=77B6A8&message=&#40;61&#41;%2098189-2456&color=87BFB3" align="left" alt="pix 61981892456">
