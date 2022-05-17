@@ -470,18 +470,22 @@
 <!-- [![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mfurquim&theme=nord_dark)]() -->
 
 
+
+<div align="right">
 <h3>Support me:</h3>
 
-<div align="left">
-  <a href="http://mfurquim.dev/" alt="http://mfurquim.dev/">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAAXNSR0IArs4c6QAAAC1QTFRFJCkzLjRATFZq2N7p7O/0j7y7iMDQgaHBXoGsv2Fq0Idw68uLo76MtI6tAAAAVAQFKwAAAA90Uk5TAP//////////////////5Y2epgAAACRJREFUCJljYEAFzAwMTFAayGJiYGIGsYA0UIQJIgdjwJSCAQAF0wAsVwmx+wAAAABJRU5ErkJggg==&label=CREATED%20BY&labelColor=2E3440&message=mfurquimdev&color=4C566A&link=http://mfurquim.dev&link=https://mfurquim.github.io/" align="right" alt="mfurquimdev">
-  </a>
   <a href="https://ko-fi.com/O5O62HL17" alt="Buy me a ko-fi">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Buy me a ko-fi">
   </a>
+  </br>
   <a href="https://www.bcb.gov.br/estabilidadefinanceira/pix" alt="pix 61981892456">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=pix&logoColor=ECEFF4&label=PIX&labelColor=77B6A8&message=&#40;61&#41;%2098189-2456&color=87BFB3" alt="pix 61981892456">
   </a>
+  </br>
+  <a href="http://mfurquim.dev/" alt="http://mfurquim.dev/">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAAXNSR0IArs4c6QAAAC1QTFRFJCkzLjRATFZq2N7p7O/0j7y7iMDQgaHBXoGsv2Fq0Idw68uLo76MtI6tAAAAVAQFKwAAAA90Uk5TAP//////////////////5Y2epgAAACRJREFUCJljYEAFzAwMTFAayGJiYGIGsYA0UIQJIgdjwJSCAQAF0wAsVwmx+wAAAABJRU5ErkJggg==&label=CREATED%20BY&labelColor=2E3440&message=mfurquimdev&color=4C566A&link=http://mfurquim.dev&link=https://mfurquim.github.io/" alt="mfurquimdev">
+  </a>
+
   <!-- <a href="https://ko-fi.com/mfurquimdev"> -->
   <!--   <img align="left" src="https://cdn.ko-fi.com/cdn/kofi5.png?v=3" height="32" width="135" alt="mfurquimdev" align="center"/> -->
   <!-- </a> -->
