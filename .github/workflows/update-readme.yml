@@ -19,10 +19,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  devcard:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Update this repo's README with devcard
-        uses: dailydotdev/action-devcard@2.0.2
-        with:
-          devcard_id: ${{ secrets.DEVCARD_ID }}
+  # devcard:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: Update this repo's README with devcard
+  #       uses: dailydotdev/action-devcard@2.0.2
+  #       with:
+  #         devcard_id: ${{ secrets.DEVCARD_ID }}
