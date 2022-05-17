@@ -46,12 +46,6 @@
 <!-- [![Go Lang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=eceff4)](https://go.dev/) -->
 <!-- [![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=eceff4)](https://mywiki.wooledge.org/BashPitfalls) -->
 
-<!-- [![Khan Academy](https://img.shields.io/badge/Khan%20Academy-14BF96?style=flat-square&logo=Khan%20Academy&logoColor=eceff4)](https://www.khanacademy.org/profile/mfurquim) -->
-<!-- [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=eceff4)](https://www.hackerrank.com/mfurquim) -->
-<!-- [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=eceff4)](https://www.codewars.com/users/mfurquim) -->
-<!-- [![Pluralsight](https://img.shields.io/badge/Pluralsight-F15B2A?style=flat-square&logo=Pluralsight&logoColor=eceff4)](https://app.pluralsight.com/profile/mateus-furquim) -->
-<!-- [![Udacity](https://img.shields.io/badge/Udacity-grey?style=flat-square&logo=udacity&logoColor=#5FCFEE)](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) -->
-<!-- [![Skillshare](https://img.shields.io/badge/skill%20share-002333?style=flat-square&logo=skillshare&logoColor=eceff4)](https://www.skillshare.com/user/mfurquim) -->
 
 <!-- [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=eceff4)](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=eceff4) -->
 <!-- [![CodePen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=eceff4)](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=eceff4) -->
@@ -62,7 +56,19 @@
 
 
 
+<h3>Coding challanges</h3>
 
+[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=eceff4)](https://www.codewars.com/users/mfurquim)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=eceff4)](https://www.hackerrank.com/mfurquim)
+[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/mfurquim)
+[![CodinGame](https://img.shields.io/static/v1?style=for-the-badge&logo=codingame&logoColor=ECEFF4&label=Codin&labelColor=F2BB13&message=Game&color=F2C12C)](https://www.codingame.com/profile/4881da4375838b65a4caeb94bd8e25b6568412)
+
+<h3>Learning platforms</h3>
+
+[![Khan Academy](https://img.shields.io/badge/Khan%20Academy-14BF96?style=flat-square&logo=Khan%20Academy&logoColor=eceff4)](https://www.khanacademy.org/profile/mfurquim)
+[![Pluralsight](https://img.shields.io/badge/Pluralsight-F15B2A?style=flat-square&logo=Pluralsight&logoColor=eceff4)](https://app.pluralsight.com/profile/mateus-furquim)
+[![Udacity](https://img.shields.io/badge/Udacity-grey?style=flat-square&logo=udacity&logoColor=#5FCFEE)](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
+[![Skillshare](https://img.shields.io/badge/skill%20share-002333?style=flat-square&logo=skillshare&logoColor=eceff4)](https://www.skillshare.com/user/mfurquim)
 
 <h3>Connect with me:</h3>
 
@@ -355,8 +361,8 @@
 <!-- scikitlearn -->
 
 
-<!-- codingame -->
 <!-- codewars -->
+
 <!-- exercism https://exercism.org/profiles/mfurquim -->
 <!-- hackerrank -->
 
