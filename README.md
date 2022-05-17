@@ -37,11 +37,14 @@
 [![Python 3](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=eceff4)](https://www.python.org/)
 [![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=eceff4)](https://docs.datastax.com/en/developer/python-driver/3.25/)
 [![FastAPI](https://img.shields.io/static/v1?style=flat-square&logo=fastapi&logoColor=ECEFF4&label=Fast&labelColor=009688&message=API&color=02AE9E)](https://fastapi.tiangolo.com/)
-[![Celery](https://img.shields.io/static/v1?style=flat-square&logo=celery&logoColor=ECEFF4&label=Celery&labelColor=37814A&message=Task%20Queue&color=3E9354)](https://docs.celeryq.dev/en/stable/)
+[![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=ECEFF4)](https://docs.celeryq.dev/en/stable/)
 [![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat-square&logo=rabbitmq&logoColor=eceff4)](https://www.rabbitmq.com/)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=eceff4)](https://redis.io/)
 
 </div>
+
+<!-- [![Celery](https://img.shields.io/static/v1?style=flat-square&logo=celery&logoColor=ECEFF4&label=Celery&labelColor=37814A&message=Task%20Queue&color=3E9354)](https://docs.celeryq.dev/en/stable/) -->
+<!-- https://img.shields.io/static/v1?style=flat-square&logo=celery&logoColor=ECEFF4&label=Celery&labelColor=&message=Task%20Queue&color=3E9354) -->
 
 <!-- [![Go Lang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=eceff4)](https://go.dev/) -->
 <!-- [![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=eceff4)](https://mywiki.wooledge.org/BashPitfalls) -->
