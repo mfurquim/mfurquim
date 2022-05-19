@@ -34,6 +34,9 @@
 
 </div>
 
+
+<!--START_SECTION:activity-->
+
 <div align="center">
   <img src="https://github.com/mfurquim/github-stats-transparent/blob/output/generated/languages.svg" align="right" alt="Languages">
   <img src="https://github.com/mfurquim/github-stats-transparent/blob/output/generated/overview.svg" align="left" alt="Overview">
