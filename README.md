@@ -36,6 +36,8 @@
 
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/mfurquim/mfurquim/pull/1) in [mfurquim/mfurquim](https://github.com/mfurquim/mfurquim)
+<!--END_SECTION:activity-->
 
 <div align="center">
   <img src="https://github.com/mfurquim/github-stats-transparent/blob/output/generated/languages.svg" align="right" alt="Languages">
