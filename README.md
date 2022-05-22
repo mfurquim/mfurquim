@@ -36,7 +36,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mfurquim/mfurquim/pull/1) in [mfurquim/mfurquim](https://github.com/mfurquim/mfurquim)
+1. 💪 Opened PR [#1](https://github.com/yu-andy/pygments/pull/1) in [yu-andy/pygments](https://github.com/yu-andy/pygments)
 <!--END_SECTION:activity-->
 
 <div align="center">
