@@ -83,7 +83,7 @@
 
 <h3>Coding challanges</h3>
 
-[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=flat-square&logo=exercism&logoColor=eceff4)](https://exercism.org/profiles/mfurquim)[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=eceff4)](https://www.hackerrank.com/mfurquim)[![CodinGame](https://img.shields.io/badge/-CodinGame-F2BB13?style=flat-square&logo=codingame&logoColor=242933)](https://www.codingame.com/profile/4881da4375838b65a4caeb94bd8e25b6568412)[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=eceff4)](https://www.codewars.com/users/mfurquim)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/mfurquim/)[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=flat-square&logo=exercism&logoColor=eceff4)](https://exercism.org/profiles/mfurquim)[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=eceff4)](https://www.hackerrank.com/mfurquim)[![CodinGame](https://img.shields.io/badge/-CodinGame-F2BB13?style=flat-square&logo=codingame&logoColor=242933)](https://www.codingame.com/profile/4881da4375838b65a4caeb94bd8e25b6568412)[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=eceff4)](https://www.codewars.com/users/mfurquim)
 
 
 
