@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Mateus Furquim</h1>
 <h3>A Machine Learning Engineer and Linux Enthusiast from Brazil</h3>
 
+[![wakatime](https://wakatime.com/badge/user/6f205940-7b5b-40c2-bd96-e71d1768f232.svg?style=social)](https://wakatime.com/@6f205940-7b5b-40c2-bd96-e71d1768f232)
 
 <!-- [![MFurquim StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/3832827)](https://stackoverflow.com/users/3832827/mfurquim) -->
 
@@ -22,8 +23,6 @@
 
 <div align='center'>
 <h3>What I use to work</h3>
-
-[![wakatime](https://wakatime.com/badge/user/6f205940-7b5b-40c2-bd96-e71d1768f232.svg?style=for-the-badge)](https://wakatime.com/@6f205940-7b5b-40c2-bd96-e71d1768f232)
 
 [![Arch Linux](https://img.shields.io/static/v1?style=for-the-badge&logo=archlinux&logoColor=ECEFF4&label=Arch&labelColor=1793D1&message=Linux&color=1CA2E6)](https://archlinux.org/)[![Vim](https://img.shields.io/static/v1?style=for-the-badge&logo=vim&logoColor=ECEFF4&label=Vim&labelColor=019733&message=editor&color=03AF3C)](https://www.vim.org/)[![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=git&logoColor=ECEFF4&label=Git&labelColor=F05032&message=Flow&color=F1654A)](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
 
