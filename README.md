@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Mateus Furquim</h1>
 <h3>A Machine Learning Engineer and Linux Enthusiast from Brazil</h3>
 
-[![wakatime](https://wakatime.com/badge/user/6f205940-7b5b-40c2-bd96-e71d1768f232.svg?style=social)](https://wakatime.com/@6f205940-7b5b-40c2-bd96-e71d1768f232)
+[![wakatime](https://wakatime.com/badge/user/6f205940-7b5b-40c2-bd96-e71d1768f232.svg?style=flat-square)](https://wakatime.com/@6f205940-7b5b-40c2-bd96-e71d1768f232)
 
 <!-- [![MFurquim StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/3832827)](https://stackoverflow.com/users/3832827/mfurquim) -->
 
