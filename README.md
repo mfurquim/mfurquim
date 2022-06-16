@@ -383,7 +383,6 @@
 <!-- jenkins -->
 <!-- vagrant -->
 
-<!-- pihole -->
 <!-- heroku -->
 <!-- digitalocean -->
 
@@ -480,9 +479,6 @@
 
 
 
-<a href="https://ko-fi.com/O5O62HL17" alt="Buy me a ko-fi">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Buy me a ko-fi">
-</a>
 
 <div align="left">
   <a href="http://mfurquim.dev/" alt="http://mfurquim.dev/">
@@ -490,9 +486,13 @@
   </a>
 </div>
 
-<a href="https://www.bcb.gov.br/estabilidadefinanceira/pix" alt="pix 61981892456">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=pix&logoColor=ECEFF4&label=PIX&labelColor=77B6A8&message=&#40;61&#41;%2098189-2456&color=87BFB3" alt="pix 61981892456">
+<a href="https://ko-fi.com/O5O62HL17" alt="Buy me a ko-fi">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Buy me a ko-fi">
 </a>
+
+<!-- <a href="https://www.bcb.gov.br/estabilidadefinanceira/pix" alt="pix xxxxxxxxxxx"> -->
+<!--   <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=pix&logoColor=ECEFF4&label=PIX&labelColor=77B6A8&message=&#40;61&#41;%20xxxxx-xxxx&color=87BFB3" alt="pix xxxxxxxxxxx"> -->
+<!-- </a> -->
 
 
 
