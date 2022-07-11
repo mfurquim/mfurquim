@@ -37,7 +37,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/yu-andy/pygments/pull/1) in [yu-andy/pygments](https://github.com/yu-andy/pygments)
+1. 🗣 Commented on [#1](https://github.com/yu-andy/pygments/issues/1) in [yu-andy/pygments](https://github.com/yu-andy/pygments)
 <!--END_SECTION:activity-->
 
 <div align="center">
