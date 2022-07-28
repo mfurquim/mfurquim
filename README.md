@@ -37,7 +37,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2189](https://github.com/pygments/pygments/issues/2189) in [pygments/pygments](https://github.com/pygments/pygments)
+1. 🗣 Commented on [#4](https://github.com/rapiz1/catp/issues/4) in [rapiz1/catp](https://github.com/rapiz1/catp)
 <!--END_SECTION:activity-->
 
 <div align="center">
