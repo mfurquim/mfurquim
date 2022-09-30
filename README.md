@@ -13,6 +13,8 @@
 
 
 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/mfurquimdev.png)](https://tryhackme.com/p/mfurquimdev)
+
 
 <!-- <div alight=left> -->
 <!--   <a href="https://skillicons.dev" target="_blank"> -->
@@ -493,7 +495,3 @@
 <!-- <a href="https://www.bcb.gov.br/estabilidadefinanceira/pix" alt="pix xxxxxxxxxxx"> -->
 <!--   <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=pix&logoColor=ECEFF4&label=PIX&labelColor=77B6A8&message=&#40;61&#41;%20xxxxx-xxxx&color=87BFB3" alt="pix xxxxxxxxxxx"> -->
 <!-- </a> -->
-
-
-
-
