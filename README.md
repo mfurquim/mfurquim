@@ -1,27 +1,12 @@
-<h1>Hi 👋, I'm Mateus Furquim</h1>
-<h3>A Machine Learning Engineer and Linux Enthusiast from Brazil</h3>
+<!--   my-header-img -->
+![](./src/header_.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
 
 [![wakatime](https://wakatime.com/badge/user/6f205940-7b5b-40c2-bd96-e71d1768f232.svg?style=flat-square)](https://wakatime.com/@6f205940-7b5b-40c2-bd96-e71d1768f232)
 
-<!-- [![MFurquim StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/3832827)](https://stackoverflow.com/users/3832827/mfurquim) -->
-
-- 🔭 I’m currently working at [DevGrid](https://devgrid.co.uk/)
-
-- 🌱 I’m currently learning **Machine Learning Engineer**
-
-- 💬 Ask me about **Software Engineering and Linux**
-
-
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/mfurquimdev.png)](https://tryhackme.com/p/mfurquimdev)
-
-
-<!-- <div alight=left> -->
-<!--   <a href="https://skillicons.dev" target="_blank"> -->
-<!--     <img src="https://skillicons.dev/icons?i=py,redis,cassandra,go,prometheus,grafana,docker,js,html,css,py,redis,cassandra,pytorch,aws,vim,bash,git,linux,latex,md,regex&perline=1" align="right"/> -->
-<!--   </a> -->
-<!-- </div> -->
-
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%#5E81ACF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I+am+Matues+Furquim;+Welcome+to+My+Profile!;Over+8+years+of+programming+experience;Machine+Learning+and+Linux+Enthusiast)](https://git.io/typing-svg)
 
 <div align='center'>
 <h3>What I use to work</h3>
@@ -36,6 +21,28 @@
 [![Python 3](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=eceff4)](https://www.python.org/)[![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=eceff4)](https://docs.datastax.com/en/developer/python-driver/3.25/)[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=ECEFF4)](https://fastapi.tiangolo.com/)[![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=ECEFF4)](https://docs.celeryq.dev/en/stable/)[![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat-square&logo=rabbitmq&logoColor=eceff4)](https://www.rabbitmq.com/)[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=eceff4)](https://redis.io/)
 
 </div>
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
+
+
+<!--  2d history skills -->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mfurquim" width="auto"></img>
+
+<!-- [![MFurquim StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/3832827)](https://stackoverflow.com/users/3832827/mfurquim) -->
+
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/mfurquimdev.png)](https://tryhackme.com/p/mfurquimdev)
+
+
+<!-- <div alight=left> -->
+<!--   <a href="https://skillicons.dev" target="_blank"> -->
+<!--     <img src="https://skillicons.dev/icons?i=py,redis,cassandra,go,prometheus,grafana,docker,js,html,css,py,redis,cassandra,pytorch,aws,vim,bash,git,linux,latex,md,regex&perline=1" align="right"/> -->
+<!--   </a> -->
+<!-- </div> -->
+
+
+
 
 
 <!--START_SECTION:activity-->
@@ -65,7 +72,7 @@
 <div align="left">
 <h3>How to reach me</h3>
 
-[![Telegram mfurquimdev](https://img.shields.io/badge/-mfurquimdev-2CA5E0?logo=telegram&style=flat-square&logoColor=eceff4)](https://t.me/mfurquimdev)[![email mateus at mfurquim dot dev](https://img.shields.io/badge/-mateus@mfurquim.dev-D14836?style=flat-square&logo=gmail&logoColor=eceff4)](mailto:mateus@mfurquim.dev)
+[![Telegram mfurquimdev](https://img.shields.io/badge/-mfurquimdev-2CA5E0?logo=telegram&style=flat-square&logoColor=eceff4)](https://t.me/mfurquimdev)[![email mfurquimdev at gmail dot com](https://img.shields.io/badge/-mfurquimdev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=eceff4)](mailto:mfurquimdev@gmail.com)
 </div>
 
 
@@ -78,11 +85,7 @@
 
 <h3>Connect with me:</h3>
 
-[![Github mfurquim](https://img.shields.io/badge/mfurquim-181717?style=flat-square&logo=github&logoColor=eceff4)](https://github.com/mfurquim)[![LinkedIn mfurquim](https://img.shields.io/badge/-in/mmfurquim-0077B5?style=flat-square&logo=linkedin&logoColor=eceff4)](https://www.linkedin.com/in/mmfurquim/)
-
-<h3>Follow me on:</h3>
-
-[![Twitter @mfurquimdev](https://img.shields.io/badge/-@mfurquimdev-1DA1F2?style=flat-square&logo=twitter&logoColor=eceff4&link=https://twitter.com/mfurquimdev)](https://twitter.com/mfurquimdev)[![Instagram @mfurquimdev](https://img.shields.io/badge/-@mfurquimdev-E4405F?style=flat-square&logo=instagram&logoColor=eceff4)](https://www.instagram.com/mfurquimdev/)
+[![Github mfurquimdev](https://img.shields.io/badge/mfurquimdev-181717?style=flat-square&logo=github&logoColor=eceff4)](https://github.com/mfurquimdev) [![LinkedIn mfurquimdev](https://img.shields.io/badge/-in/mfurquimdev-0077B5?style=flat-square&logo=linkedin&logoColor=eceff4)](https://www.linkedin.com/in/mfurquimdev/) [![Instagram @mfurquimdev](https://img.shields.io/badge/-@mfurquimdev-E4405F?style=flat-square&logo=instagram&logoColor=eceff4)](https://www.instagram.com/mfurquimdev/)
 
 <h3>Coding challanges</h3>
 
