@@ -15,15 +15,67 @@ jobs:
           user: mfurquimdev
           config_timezone: America/Sao_Paulo
 
+          output_action: gist
+          committer_gist: e907f585ddca8a1f98b6494319518f7e
+          optimize: css, xml
+
+          config_order: base.header, introduction
+
+          base_hireable: yes
+
+          plugin_introduction: yes
+          plugin_introduction_title: no
+
+          plugin_gists: yes
+
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/languages/README.md
           plugin_languages: yes
           plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot, PHP, Java
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake,
+            gnuplot, PHP, Java, PostScript, javascript, JS, typescript, TS
           plugin_languages_details: "bytes-size, percentage"
           plugin_languages_limit: 4
           plugin_languages_threshold: 2%
-          plugin_languages_aliases: javascript:JS typescript:TS
+          plugin_languages_aliases: "jupyter notebook:JNotebook"
+          plugin_languages_sections: most-used
+          plugin_languages_colors: "0:#da5c0d"
+          plugin_languages_other: no
+
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/lines/README.md
+          plugin_lines: no
+          plugin_lines_sections: repositories
+          repositories_skipped: |
+            @use.patterns
+
+            -mfurquimdev/mfurquimdev*
+
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/calendar/README.md
+          plugin_calendar: no
+          plugin_calendar_limit: 0
+
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/traffic/README.md
+          plugin_traffic: yes
+
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/code/README.md
+          plugin_code: yes
+          # plugin_code_languages: python, cpp, go, rust
+          plugin_code_days: 0
+          plugin_code_visibility: "all"
+
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/leetcode/README.md
+          plugin_leetcode: yes
+          plugin_leetcode_sections: "solved, skills, recent"
+          plugin_leetcode_user: "mfurquimdev"
+          plugin_leetcode_ignored_skills: "fundamental"
+          plugin_leetcode_limit_skills: 6
+          plugin_leetcode_limit_recent: 1
+
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_sections: time, languages, editors
+          plugin_wakatime_days: 7
+          plugin_wakatime_repositories_visibility: all
 
 
 
@@ -34,43 +86,44 @@ jobs:
 
 
 
-#          config_display: columns  # отображать информацию по колонкам
-          committer_message: "chore: update metrics"
-          template: classic
-          base: header, activity, community, repositories, metadata  # базовый контент (информация о пользователе)
-          plugin_introduction: yes  # общая информация о аккаунте
-#          plugin_sponsors: yes
 
-          plugin_isocalendar: yes  # 3д изокалендарь
-          plugin_isocalendar_duration: full-year  # отображает активность за полный год
+# #          config_display: columns  # отображать информацию по колонкам
+#           committer_message: "chore: update metrics"
+#           template: classic
+#           base: header, activity, community, repositories, metadata  # базовый контент (информация о пользователе)
+#           plugin_introduction: yes  # общая информация о аккаунте
+# #          plugin_sponsors: yes
 
-          plugin_languages_details: bytes-size, percentage  # дополнительная информация о коде размер и процент
+#           plugin_isocalendar: yes  # 3д изокалендарь
+#           plugin_isocalendar_duration: full-year  # отображает активность за полный год
 
-          plugin_achievements: yes
+#           plugin_languages_details: bytes-size, percentage  # дополнительная информация о коде размер и процент
 
-          plugin_achievements_threshold: X  # (покажет фишки достижений которые еще не разблокированы)
-          plugin_achievements_display: detailed  # детальное описание фишек достижений
+#           plugin_achievements: yes
 
-          plugin_calendar: yes  # отображает активность по годам от текущего и далее
-          plugin_calendar_limit: 11 # отображает активность за столько лет
+#           plugin_achievements_threshold: X  # (покажет фишки достижений которые еще не разблокированы)
+#           plugin_achievements_display: detailed  # детальное описание фишек достижений
 
-          plugin_habits: yes  # активность за сутки и неделю
-          plugin_habits_facts: yes  # отображает анализ вашей активность за неделю
-          plugin_habits_charts: yes  # отображает характеристики
+#           plugin_calendar: yes  # отображает активность по годам от текущего и далее
+#           plugin_calendar_limit: 11 # отображает активность за столько лет
 
-          plugin_licenses: yes  # информация о лицензиях
-          plugin_licenses_setup: npm ci  # подробная информация о применяемых лицензиях
+#           plugin_habits: yes  # активность за сутки и неделю
+#           plugin_habits_facts: yes  # отображает анализ вашей активность за неделю
+#           plugin_habits_charts: yes  # отображает характеристики
 
-          plugin_skyline: yes  # плагин 3д активности скайлайн
-          plugin_skyline_year: 2022 # за какой год
-          plugin_skyline_frames: 120  # количество кадров
-          plugin_skyline_quality: 1  # качество 1 - лучшее
+#           plugin_licenses: yes  # информация о лицензиях
+#           plugin_licenses_setup: npm ci  # подробная информация о применяемых лицензиях
 
-          plugin_stargazers: yes  # активность за месяц
-          plugin_stargazers_charts_type: chartist  # тип активности - плавные линии
+#           plugin_skyline: yes  # плагин 3д активности скайлайн
+#           plugin_skyline_year: 2022 # за какой год
+#           plugin_skyline_frames: 120  # количество кадров
+#           plugin_skyline_quality: 1  # качество 1 - лучшее
 
-          plugin_support: yes  # плагин поддержки
+#           plugin_stargazers: yes  # активность за месяц
+#           plugin_stargazers_charts_type: chartist  # тип активности - плавные линии
 
-          plugin_topics: yes  # плагин ипсользуемых тем
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
+#           plugin_support: yes  # плагин поддержки
+
+#           plugin_topics: yes  # плагин ипсользуемых тем
+#           plugin_topics_limit: 0
+#           plugin_topics_mode: icons
