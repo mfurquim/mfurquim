@@ -15,20 +15,20 @@ jobs:
           user: mfurquimdev
           config_timezone: America/Sao_Paulo
           config_padding: 0 #, -10%
-          commits_authoring: Mateus Furquim, mfurquim, mfurquimdev, mfurquimdev@gmail.com, furquim.axs@gmail.com, furquim@devgrid.co.uk
 
           output_action: gist
           committer_gist: e907f585ddca8a1f98b6494319518f7e
           optimize: css, xml
 
-          config_order: base.header, introduction
-
-
+          commits_authoring: Mateus Furquim, mfurquim, mfurquimdev, mfurquimdev@gmail.com, furquim.axs@gmail.com, furquim@devgrid.co.uk
           repositories: 150
           repositories_batch: 75
-          repositories_affiliations: "owner,collaborator"
+          repositories_affiliations: ""
 
-          base_hireable: yes
+          config_order: base.header, introduction
+
+          base: header, activity, repositories, metadata
+          base_hireable: no
 
           plugin_introduction: yes
           plugin_introduction_title: no
@@ -79,7 +79,7 @@ jobs:
           plugin_leetcode_limit_recent: 1
 
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md
-          plugin_wakatime: yes
+          plugin_wakatime: no
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_sections: time, languages, editors
           plugin_wakatime_days: 7
