@@ -14,12 +14,19 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: mfurquimdev
           config_timezone: America/Sao_Paulo
+          config_padding: 0, -10%
+          commits_authoring: Mateus Furquim, mfurquim, mfurquimdev, mfurquimdev@gmail.com, furquim.axs@gmail.com, furquim@devgrid.co.uk
 
           output_action: gist
           committer_gist: e907f585ddca8a1f98b6494319518f7e
           optimize: css, xml
 
           config_order: base.header, introduction
+
+
+          repositories: 150
+          repositories_batch: 75
+          repositories_affiliations: "owner,collaborator"
 
           base_hireable: yes
 
@@ -59,6 +66,7 @@ jobs:
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/code/README.md
           plugin_code: yes
           # plugin_code_languages: python, cpp, go, rust
+          plugin_code_load: 1000
           plugin_code_days: 0
           plugin_code_visibility: "all"
 
