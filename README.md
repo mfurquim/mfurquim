@@ -72,7 +72,9 @@
 </a>
 </div>
 
-<img src="https://gist.githubusercontent.com/mfurquimdev/e907f585ddca8a1f98b6494319518f7e/raw/2b595ba7265d059e46829595f1137ce620b3a4c3/github-metrics.svg" alt="Metrics" width="100%">
+<div align='center'>
+<img src="https://gist.githubusercontent.com/mfurquimdev/e907f585ddca8a1f98b6494319518f7e/raw/2b595ba7265d059e46829595f1137ce620b3a4c3/github-metrics.svg" alt="Metrics" width="61%">
+</div>
 
 
 
