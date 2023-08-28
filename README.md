@@ -1,5 +1,5 @@
 <!--   my-header-img -->
-![](./src/header_.png)
+<!-- ![](./src/header_.png) -->
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 
@@ -11,18 +11,68 @@
 <div align='center'>
 <h3>What I use to work</h3>
 
-[![Arch Linux](https://img.shields.io/static/v1?style=for-the-badge&logo=archlinux&logoColor=ECEFF4&label=Arch&labelColor=1793D1&message=Linux&color=1CA2E6)](https://archlinux.org/)[![Vim](https://img.shields.io/static/v1?style=for-the-badge&logo=vim&logoColor=ECEFF4&label=Vim&labelColor=019733&message=editor&color=03AF3C)](https://www.vim.org/)[![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=git&logoColor=ECEFF4&label=Git&labelColor=F05032&message=Flow&color=F1654A)](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
-
+<a href="https://archlinux.org/">
+    <img
+        src="https://img.shields.io/static/v1?style=for-the-badge&logo=archlinux&logoColor=ECEFF4&label=Arch&labelColor=1793D1&message=Linux&color=1CA2E6"
+        alt="Arch Linux"
+    />
+</a>
+<a href="https://neovim.io/">
+    <img
+        src="https://img.shields.io/static/v1?style=for-the-badge&logo=Neovim&logoColor=ECEFF4&label=NeoVim&labelColor=019733&message=editor&color=03AF3C"
+        alt="NeoVim"
+    />
+</a>
+<a href="https://datasift.github.io/gitflow/IntroducingGitFlow.html">
+    <img
+        src="https://img.shields.io/static/v1?style=for-the-badge&logo=git&logoColor=ECEFF4&label=Git&labelColor=F05032&message=Flow&color=F1654A"
+        alt="Git"
+    />
+</a>
 </div>
 
 <div align='center'>
 <h3>My current work stack</h3>
 
-[![Python 3](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=eceff4)](https://www.python.org/)[![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=eceff4)](https://docs.datastax.com/en/developer/python-driver/3.25/)[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=ECEFF4)](https://fastapi.tiangolo.com/)[![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=ECEFF4)](https://docs.celeryq.dev/en/stable/)[![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat-square&logo=rabbitmq&logoColor=eceff4)](https://www.rabbitmq.com/)[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=eceff4)](https://redis.io/)
-
+<a href="https://www.python.org/">
+    <img
+        src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=eceff4"
+        alt="Python 3"
+    />
+</a>
+<a href="https://docs.datastax.com/en/developer/python-driver/3.25/">
+    <img
+        src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=eceff4"
+        alt="Apache Cassandra"
+    />
+</a>
+<a href="https://fastapi.tiangolo.com/">
+    <img
+        src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=ECEFF4"
+        alt="FastAPI"
+    />
+</a>
+<a href="https://docs.celeryq.dev/en/stable/">
+    <img
+        src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=ECEFF4"
+        alt="Celery"
+    />
+</a>
+<a href="https://www.rabbitmq.com/">
+    <img
+        src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat-square&logo=rabbitmq&logoColor=eceff4"
+        alt="RabbitMQ"
+    />
+</a>
+<a href="https://redis.io/">
+    <img
+        src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=eceff4"
+        alt="Redis"
+    />
+</a>
 </div>
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<img src="https://gist.githubusercontent.com/mfurquimdev/e907f585ddca8a1f98b6494319518f7e/raw/2b595ba7265d059e46829595f1137ce620b3a4c3/github-metrics.svg" alt="Metrics" width="100%">
 
 
 
