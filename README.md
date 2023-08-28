@@ -11,25 +11,63 @@
 
 <h3>What I use to work</h3>
 
-[![Arch Linux](https://img.shields.io/static/v1?style=for-the-badge&logo=archlinux&logoColor=ECEFF4&label=Arch&labelColor=1793D1&message=Linux&color=1CA2E6)](https://archlinux.org/)[![Vim](https://img.shields.io/static/v1?style=for-the-badge&logo=vim&logoColor=ECEFF4&label=Vim&labelColor=019733&message=editor&color=03AF3C)](https://www.vim.org/)[![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=git&logoColor=ECEFF4&label=Git&labelColor=F05032&message=Flow&color=F1654A)](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
+<a href="https://archlinux.org/">
+    <img
+        src="https://img.shields.io/static/v1?style=for-the-badge&logo=archlinux&logoColor=ECEFF4&label=Arch&labelColor=1793D1&message=Linux&color=1CA2E6"
+        alt="Arch Linux"
+    />
+</a>
+<a href="https://neovim.io/">
+    <img
+        src="https://img.shields.io/static/v1?style=for-the-badge&logo=Neovim&logoColor=ECEFF4&label=NeoVim&labelColor=019733&message=editor&color=03AF3C"
+        alt="NeoVim"
+    />
+</a>
+<a href="https://datasift.github.io/gitflow/IntroducingGitFlow.html">
+    <img
+        src="https://img.shields.io/static/v1?style=for-the-badge&logo=git&logoColor=ECEFF4&label=Git&labelColor=F05032&message=Flow&color=F1654A"
+        alt="Git"
+    />
+</a>
 
 <h3>My current work stack</h3>
 
-[![Python 3](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=eceff4)](https://www.python.org/)[![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=eceff4)](https://docs.datastax.com/en/developer/python-driver/3.25/)[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=ECEFF4)](https://fastapi.tiangolo.com/)[![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=ECEFF4)](https://docs.celeryq.dev/en/stable/)[![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat-square&logo=rabbitmq&logoColor=eceff4)](https://www.rabbitmq.com/)[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=eceff4)](https://redis.io/)
-
-
-<img src="https://gist.githubusercontent.com/mfurquimdev/e907f585ddca8a1f98b6494319518f7e/raw/2b595ba7265d059e46829595f1137ce620b3a4c3/github-metrics.svg" alt="Metrics" width="90%">
-</div> <!-- End of center div -->
-
-
-
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mfurquim" width="auto"></img>
-
-<!-- [![MFurquim StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/3832827)](https://stackoverflow.com/users/3832827/mfurquim) -->
-
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/mfurquimdev.png)](https://tryhackme.com/p/mfurquimdev)
+<a href="https://www.python.org/">
+    <img
+        src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=eceff4"
+        alt="Python 3"
+    />
+</a>
+<a href="https://docs.datastax.com/en/developer/python-driver/3.25/">
+    <img
+        src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=eceff4"
+        alt="Apache Cassandra"
+    />
+</a>
+<a href="https://fastapi.tiangolo.com/">
+    <img
+        src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=ECEFF4"
+        alt="FastAPI"
+    />
+</a>
+<a href="https://docs.celeryq.dev/en/stable/">
+    <img
+        src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=ECEFF4"
+        alt="Celery"
+    />
+</a>
+<a href="https://www.rabbitmq.com/">
+    <img
+        src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat-square&logo=rabbitmq&logoColor=eceff4"
+        alt="RabbitMQ"
+    />
+</a>
+<a href="https://redis.io/">
+    <img
+        src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=eceff4"
+        alt="Redis"
+    />
+</a>
 
 
 <!-- <div alight=left> -->
@@ -38,16 +76,16 @@
 <!--   </a> -->
 <!-- </div> -->
 
+<img src="https://gist.githubusercontent.com/mfurquimdev/e907f585ddca8a1f98b6494319518f7e/raw/2b595ba7265d059e46829595f1137ce620b3a4c3/github-metrics.svg" alt="Metrics" width="90%">
+</div> <!-- End of center div -->
 
 
-
-
-
-
+<!--  2d history skills -->
+<!-- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mfurquim" width="auto"></img> -->
+<!-- [![MFurquim StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/3832827)](https://stackoverflow.com/users/3832827/mfurquim) -->
+<!-- [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/mfurquimdev.png)](https://tryhackme.com/p/mfurquimdev) -->
 <!-- [![Go Lang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=eceff4)](https://go.dev/) -->
 <!-- [![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=eceff4)](https://mywiki.wooledge.org/BashPitfalls) -->
-
-
 <!-- [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=eceff4)](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=eceff4) -->
 <!-- [![CodePen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=eceff4)](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=eceff4) -->
 <!-- [![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=eceff4)](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=eceff4) -->
@@ -55,13 +93,11 @@
 
 <!-- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=eceff4)](https://www.kaggle.com/mfurquim) -->
 
-
 <div align="left">
 <h3>How to reach me</h3>
 
-[![Telegram mfurquimdev](https://img.shields.io/badge/-mfurquimdev-2CA5E0?logo=telegram&style=flat-square&logoColor=eceff4)](https://t.me/mfurquimdev)[![email mfurquimdev at gmail dot com](https://img.shields.io/badge/-mfurquimdev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=eceff4)](mailto:mfurquimdev@gmail.com)
-</div>
-
+[![email mfurquimdev at gmail dot com](https://img.shields.io/badge/-mfurquimdev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=eceff4)](mailto:mfurquimdev@gmail.com)
+<!-- [![Telegram mfurquimdev](https://img.shields.io/badge/-mfurquimdev-2CA5E0?logo=telegram&style=flat-square&logoColor=eceff4)](https://t.me/mfurquimdev) -->
 
 <!-- <h3>Learning platforms</h3> -->
 
@@ -76,8 +112,9 @@
 
 <h3>Coding challanges</h3>
 
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/mfurquim/)[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=flat-square&logo=exercism&logoColor=eceff4)](https://exercism.org/profiles/mfurquim)[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=eceff4)](https://www.hackerrank.com/mfurquim)[![CodinGame](https://img.shields.io/badge/-CodinGame-F2BB13?style=flat-square&logo=codingame&logoColor=242933)](https://www.codingame.com/profile/4881da4375838b65a4caeb94bd8e25b6568412)[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=eceff4)](https://www.codewars.com/users/mfurquim)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/mfurquim/) [![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=flat-square&logo=exercism&logoColor=eceff4)](https://exercism.org/profiles/mfurquim) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=eceff4)](https://www.hackerrank.com/mfurquim) [![CodinGame](https://img.shields.io/badge/-CodinGame-F2BB13?style=flat-square&logo=codingame&logoColor=242933)](https://www.codingame.com/profile/4881da4375838b65a4caeb94bd8e25b6568412) [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=eceff4)](https://www.codewars.com/users/mfurquim)
 
+</div>
 
 
 
