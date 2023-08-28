@@ -1,13 +1,16 @@
 <!--   my-header-img -->
-![](./assets/header_.png)
-<!-- <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a> -->
-
-
-[![wakatime](https://wakatime.com/badge/user/6f205940-7b5b-40c2-bd96-e71d1768f232.svg?style=flat-square)](https://wakatime.com/@6f205940-7b5b-40c2-bd96-e71d1768f232)
-
 <div align='center'>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1250&color=D8DEE9&background=2E3440&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B%2C+I+am+Mateus+Furquim;Welcome+to+my+profile!;Over+8+years+of+programming+experience;Machine+Learning+and+Linux+Enthusiast)](https://git.io/typing-svg)
+<img src="./assets/header_.png"/>
+<img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1250&color=D8DEE9&background=2E3440&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B%2C+I+am+Mateus+Furquim;Welcome+to+my+profile!;Over+8+years+of+programming+experience;Machine+Learning+and+Linux+Enthusiast"
+    alt="Typing SVG"
+/>
+
+
+<h3>Accumulated programming time</h3>
+
+[![wakatime](https://wakatime.com/badge/user/6f205940-7b5b-40c2-bd96-e71d1768f232.svg?style=flat-square)](https://wakatime.com/@6f205940-7b5b-40c2-bd96-e71d1768f232)
 
 <h3>What I use to work</h3>
 
