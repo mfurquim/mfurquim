@@ -7,17 +7,6 @@
     alt="Typing SVG"
 />
 
-<div align="left">
-<h3>How to reach me</h3>
-
-[![email mfurquimdev at gmail dot com](https://img.shields.io/badge/-mfurquimdev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=eceff4)](mailto:mfurquimdev@gmail.com) [![Github mfurquimdev](https://img.shields.io/badge/mfurquimdev-181717?style=flat-square&logo=github&logoColor=eceff4)](https://github.com/mfurquimdev) [![LinkedIn mfurquimdev](https://img.shields.io/badge/-in/mfurquimdev-0077B5?style=flat-square&logo=linkedin&logoColor=eceff4)](https://www.linkedin.com/in/mfurquimdev/) [![Instagram @mfurquimdev](https://img.shields.io/badge/-@mfurquimdev-E4405F?style=flat-square&logo=instagram&logoColor=eceff4)](https://www.instagram.com/mfurquimdev/)
-
-<h3>Coding experience</h3>
-
-[![wakatime](https://wakatime.com/badge/user/6f205940-7b5b-40c2-bd96-e71d1768f232.svg?style=flat-square)](https://wakatime.com/@6f205940-7b5b-40c2-bd96-e71d1768f232) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/mfurquim/) [![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=flat-square&logo=exercism&logoColor=eceff4)](https://exercism.org/profiles/mfurquim) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=eceff4)](https://www.hackerrank.com/mfurquim) [![CodinGame](https://img.shields.io/badge/-CodinGame-F2BB13?style=flat-square&logo=codingame&logoColor=242933)](https://www.codingame.com/profile/4881da4375838b65a4caeb94bd8e25b6568412) [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=eceff4)](https://www.codewars.com/users/mfurquim)
-
-</div>
-
 <h3>What I'm currently using</h3>
 
 <a href="https://archlinux.org/">
@@ -77,7 +66,23 @@
 </a>
 <img src="https://gist.githubusercontent.com/mfurquimdev/e907f585ddca8a1f98b6494319518f7e/raw/github-metrics.svg" alt="Metrics" width="90%">
 </div> <!-- End of center div -->
-<h3>Support me:</h3>
+
+<div align="left">
+<h3>Coding experience</h3>
+
+[![wakatime](https://wakatime.com/badge/user/6f205940-7b5b-40c2-bd96-e71d1768f232.svg?style=flat-square)](https://wakatime.com/@6f205940-7b5b-40c2-bd96-e71d1768f232)
+
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/mfurquim/) [![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=flat-square&logo=exercism&logoColor=eceff4)](https://exercism.org/profiles/mfurquim) [![HackerRank](https://img.shields.io/badge/-Hackerrank-068932?style=flat-square&logo=HackerRank&logoColor=eceff4)](https://www.hackerrank.com/mfurquim) [![CodinGame](https://img.shields.io/badge/-CodinGame-F2BB13?style=flat-square&logo=codingame&logoColor=242933)](https://www.codingame.com/profile/4881da4375838b65a4caeb94bd8e25b6568412) [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=eceff4)](https://www.codewars.com/users/mfurquim)
+
+<h3>How to reach me</h3>
+
+[![email mfurquimdev at gmail dot com](https://img.shields.io/badge/-mfurquimdev-D14836?style=flat-square&logo=gmail&logoColor=eceff4)](mailto:mfurquimdev@gmail.com)
+[![LinkedIn mfurquimdev](https://img.shields.io/badge/-in/mfurquimdev-0077B5?style=flat-square&logo=linkedin&logoColor=eceff4)](https://www.linkedin.com/in/mfurquimdev/)
+[![Instagram @mfurquimdev](https://img.shields.io/badge/-@mfurquimdev-E4405F?style=flat-square&logo=instagram&logoColor=eceff4)](https://www.instagram.com/mfurquimdev/)
+[![Github mfurquimdev](https://img.shields.io/badge/-@mfurquimdev-181717?style=flat-square&logo=github&logoColor=eceff4)](https://github.com/mfurquimdev)
+</div>
+
+<h3>Buy me a Ko-Fi</h3>
 
 <div align="left">
   <a href="http://mfurquim.dev/" alt="http://mfurquim.dev/">
