@@ -27,7 +27,7 @@ jobs:
 
           config_order: base.header, introduction
 
-          base: header, activity, repositories
+          base: header, activity, repositories, community, metadata
           base_hireable: no
 
           plugin_introduction: yes
