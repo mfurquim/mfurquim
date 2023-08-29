@@ -25,7 +25,7 @@ jobs:
           repositories_batch: 75
           repositories_affiliations: "owner, collaborator"
 
-          config_order: base.header, introduction
+          config_order: base.header, introduction, base, gists, leetcode, languages
 
           base: header, activity, repositories, community, metadata
           base_hireable: no
