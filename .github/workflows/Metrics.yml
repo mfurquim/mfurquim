@@ -25,9 +25,11 @@ jobs:
           repositories_batch: 75
           repositories_affiliations: "owner, collaborator"
 
-          config_order: base.header, introduction, base, gists, leetcode, languages
+          # https://github.com/lowlighter/metrics/blob/803ffb0656239ded5f188ce9e324bb34c55044f5/source/templates/classic/partials/_.json#L2-L5
+          config_order:  "base.header, introduction, base.activity+community, activity, base.repositories, gists, leetcode, languages, code"
 
           base: header, activity, repositories, community, metadata
+
           base_hireable: no
 
           plugin_introduction: yes
