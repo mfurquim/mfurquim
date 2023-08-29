@@ -23,7 +23,7 @@ jobs:
           commits_authoring: Mateus Furquim, mfurquim, mfurquimdev, mfurquimdev@gmail.com, furquim.axs@gmail.com, furquim@devgrid.co.uk
           repositories: 150
           repositories_batch: 75
-          repositories_affiliations: ""
+          repositories_affiliations: "owner, collaborator"
 
           config_order: base.header, introduction
 
@@ -49,11 +49,10 @@ jobs:
           plugin_languages_other: no
 
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/lines/README.md
-          plugin_lines: no
-          plugin_lines_sections: repositories
+          plugin_lines: yes
+          plugin_lines_sections: base
           repositories_skipped: |
             @use.patterns
-
             -mfurquimdev/mfurquimdev*
 
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/calendar/README.md
