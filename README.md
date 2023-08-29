@@ -75,18 +75,8 @@
         alt="Redis"
     />
 </a>
-
-
-<!-- <div alight=left> -->
-<!--   <a href="https://skillicons.dev" target="_blank"> -->
-<!--     <img src="https://skillicons.dev/icons?i=py,redis,cassandra,go,prometheus,grafana,docker,js,html,css,py,redis,cassandra,pytorch,aws,vim,bash,git,linux,latex,md,regex&perline=1" align="right"/> -->
-<!--   </a> -->
-<!-- </div> -->
-
 <img src="https://gist.githubusercontent.com/mfurquimdev/e907f585ddca8a1f98b6494319518f7e/raw/2b595ba7265d059e46829595f1137ce620b3a4c3/github-metrics.svg" alt="Metrics" width="90%">
-
 </div> <!-- End of center div -->
-
 <h3>Support me:</h3>
 
 <div align="left">
@@ -98,7 +88,3 @@
 <a href="https://ko-fi.com/O5O62HL17" alt="Buy me a ko-fi">
   <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Buy me a ko-fi">
 </a>
-
-<!-- <a href="https://www.bcb.gov.br/estabilidadefinanceira/pix" alt="pix xxxxxxxxxxx"> -->
-<!--   <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=pix&logoColor=ECEFF4&label=PIX&labelColor=77B6A8&message=&#40;61&#41;%20xxxxx-xxxx&color=87BFB3" alt="pix xxxxxxxxxxx"> -->
-<!-- </a> -->
