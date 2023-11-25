@@ -26,7 +26,7 @@ jobs:
           repositories_affiliations: "owner, collaborator"
 
           # https://github.com/lowlighter/metrics/blob/803ffb0656239ded5f188ce9e324bb34c55044f5/source/templates/classic/partials/_.json#L2-L5
-          config_order:  "base, introduction, languages, leetcode, code"
+          config_order:  "base.header, languages, leetcode, code"
 
           base: header, metadata
 
