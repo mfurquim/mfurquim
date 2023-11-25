@@ -81,7 +81,7 @@ jobs:
           plugin_leetcode_limit_recent: 1
 
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md
-          plugin_wakatime: no
+          plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_sections: time, languages, editors
           plugin_wakatime_days: 7
