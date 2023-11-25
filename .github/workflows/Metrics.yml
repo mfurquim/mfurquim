@@ -56,6 +56,7 @@ jobs:
           repositories_skipped: |
             @use.patterns
             -mfurquimdev/mfurquimdev*
+            -mfurquimdev/resume
 
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/calendar/README.md
           plugin_calendar: no
