@@ -10,6 +10,8 @@
     />
 </div>
 
+<img src="https://gist.githubusercontent.com/mfurquimdev/e907f585ddca8a1f98b6494319518f7e/raw/github-metrics.svg" alt="Metrics" width="90%">
+
 <h3>What I'm currently using</h3>
 
 <a href="https://archlinux.org/">
@@ -67,7 +69,7 @@
         alt="Redis"
     />
 </a>
-<img src="https://gist.githubusercontent.com/mfurquimdev/e907f585ddca8a1f98b6494319518f7e/raw/github-metrics.svg" alt="Metrics" width="90%">
+
 </div> <!-- End of center div -->
 
 <div align="left">
