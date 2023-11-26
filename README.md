@@ -1,14 +1,7 @@
 <!--   my-header-img -->
 <div align='center'>
 
-<div style="margin: 0;padding: 0">
-    <img src="./assets/header_.png"
-    style="margin: 0;padding: 0"/>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1250&color=D8DEE9&background=2E3440&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B%2C+I+am+Mateus+Furquim;Welcome+to+my+profile!;Over+8+years+of+programming+experience;Machine+Learning+and+Linux+Enthusiast"
-    alt="Typing SVG"
-    style="margin: 0;padding: 0"
-    />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1250&color=D8DEE9&background=2E3440&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B%2C+I+am+Mateus+Furquim;Welcome+to+my+profile!;Over+8+years+of+programming+experience;Machine+Learning+and+Linux+Enthusiast" alt="Typing SVG"/>
 
 <img src="https://gist.githubusercontent.com/mfurquimdev/e907f585ddca8a1f98b6494319518f7e/raw/github-metrics.svg" alt="Metrics" width="90%">
 
